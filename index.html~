@@ -27,7 +27,7 @@
 						<li><a href="#one" class="active">About</a></li>
 						<li><a href="#two">Research</a></li>
 						<li><a href="#three">Publications</a></li>
-						<li><a href="#four">Contact</a></li>
+						<!---<li><a href="#four">Contact</a></li>-->
 					</ul>
 				</nav>
 				<footer>
@@ -107,6 +107,7 @@
 							</section>
 
 						<!-- Four -->
+						<!--
 							<section id="four">
 								<div class="container">
 									<h3>Contact Me</h3>
@@ -133,6 +134,7 @@
 									</form>
 								</div>
 							</section>
+							-->
 
 						<!-- Five -->
 						<!--
