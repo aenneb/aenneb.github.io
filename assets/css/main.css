@@ -2387,14 +2387,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #fabe78;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #39c29d;
+				background-color: #fbcb93;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2462,7 +2462,7 @@
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #f7931e;
-		color: #d1f1e9;
+		color: #fdead4;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2485,7 +2485,7 @@
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #b6e9dc;
 		}
 
 			#header a:hover {
@@ -2512,7 +2512,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #b6e9dc;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #f9a94b;
 					display: block;
 					padding: 0;
 				}
