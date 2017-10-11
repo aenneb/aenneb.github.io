@@ -2481,11 +2481,11 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #fdead4;
 		}
 
 		#header a {
-			color: #b6e9dc;
+			color: #fdead4;
 		}
 
 			#header a:hover {
@@ -2512,7 +2512,7 @@
 			}
 
 			#header > header p {
-				color: #b6e9dc;
+				color: #fdead4;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
