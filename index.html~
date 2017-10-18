@@ -90,6 +90,7 @@
 									<br>You can access all full texts and most conference posters via <a href="https://www.researchgate.net/profile/Aenne_Brielmann?ev=hdr_xprf" >Research Gate</a>
 									
 									<br><br>
+<<<<<<< HEAD
 									<section>
 									<h4>Current PhD projects</h4>
 										<div class="table-wrapper">
@@ -118,6 +119,22 @@
 										</div>
 										<br>
 																	
+=======
+										<h4>Current PhD projects</h4>
+										<p>											
+												Beauty at a glance: The feeling of beauty and the amplitude of pleasure are independent of stimulus duration. Brielmann, A. A., Vale, L.N., & Pelli, D.G. (in press). Journal of Vision.
+												<br><br>						
+												Beauty requires thought. Brielmann, A. A., & Pelli, D.G. (2017). Current Biology.
+												<a href="http://www.cell.com/current-biology/fulltext/S0960-9822(17)30427-X?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098221730427X%3Fshowall%3Dtrue" > &nbsp; Open Access Article</a>
+												<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cub.2017.04.018" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>	
+												<i>Selected media coverage:</i>
+												<a href="http://www.dailymail.co.uk/sciencetech/article-4496370/Why-stop-pause-appreciate-beauty.html" >Daily Mail</a>, &nbsp;
+												<a href="https://www.smithsonianmag.com/science-nature/distraction-makes-us-less-able-appreciate-beauty-180963315/" >The Smithsonian</a>, 		&nbsp;										
+												<a href="https://qz.com/987567/distraction-prevents-us-from-seeing-beauty/" >Quartz</a>, 			&nbsp;
+												<a href="http://www.zeit.de/2017/21/psychologie-immanuel-kant-schoenheit-reflex" >Die Zeit</a> (German)											
+										</p>
+										<br>							
+>>>>>>> parent of 0025df0... try table
 										<h4>Past projects</h4>
 										<p>
 											Stolarova, M., Brielmann, A.A., Wolf, C., Rinker, T., Baayen, H. (2016). Early Vocabulary in Relation to Gender, Bilingualism, Type, and Duration of Childcare. Advances in Cognitive Psychology. 
