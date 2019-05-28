@@ -19,9 +19,13 @@ I also aim to make my approach interdisciplinary by collaborating with philosoph
 You can access all full texts and most conference posters via [Research Gate] (https://www.researchgate.net/profile/Aenne_Brielmann).
 
 ### Current Projects
+
 Beauty at a glance: The feeling of beauty and the amplitude of pleasure are independent of stimulus duration. Brielmann, A. A., Vale, L.N., & Pelli, D.G. (2017). Journal of Vision. 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.cub.2017.04.018"></div> Beauty requires thought. Brielmann, A. A., & Pelli, D.G. (2017). Current Biology. 
-	Selected media coverage: Daily Mail,   The Smithsonian,  	Quartz,   Die Zeit (German) Open Access Article\
+
+[Beauty requires thought] (https://www.sciencedirect.com/science/article/pii/S096098221730427X?via%3Dihub). Brielmann, A. A., & Pelli, D.G. (2017). Current Biology. 
+<div data-badge-type="4" data-doi="10.1016/j.cub.2017.04.018" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+	Selected media coverage: Daily Mail, The Smithsonian, Quartz, Die Zeit (German)
+
 
 ### Past Projects
 
