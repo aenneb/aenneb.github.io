@@ -55,5 +55,4 @@ Stolarova, M., & Brielmann, A. A. (2014). Does anyone need help? Age and gender 
 
 Brielmann, A. A., & Stolarova, M. (2014). A New Standardized Stimulus Set for Studying Need-of-Help Recognition (NeoHelp). PloS one, 9(1), e84373.
 
-
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
