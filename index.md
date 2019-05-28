@@ -14,7 +14,7 @@ My approach to studying beauty is **quantitative** and **computational**. The ma
 I also aim to make my approach interdisciplinary by collaborating with philosophers at the Einstein Group in Berlin.
 
 I'm enthusiastic about taking the 'hard' science of aesthetics to the public! 
-Most recently, I have been writing for the German magazine *Gehirn und Geist* and interviewed with the [SASS (Super Awesome Science Show) podcast] (https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
+Most recently, I have been writing for the German magazine *Gehirn und Geist* and interviewed with the [SASS podcast] (https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
 I try to keep tweeting as [@aabrielma] (https://twitter.com/aabrielma). You'll find some of my interviews about specific articles below.
 
 
@@ -30,7 +30,7 @@ You can access all full texts and most conference posters via [Research Gate] (h
 <div data-badge-type="4" data-doi="10.1167/17.14.9" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 [Beauty requires thought] (https://www.sciencedirect.com/science/article/pii/S096098221730427X?via%3Dihub). Brielmann, A. A., & Pelli, D.G. (2017). Current Biology. 
 <div data-badge-type="4" data-doi="10.1016/j.cub.2017.04.018" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
-	Selected media coverage: [Daily Mail], [The Smithsonian], [Quartz], [Die Zeit (German)] ()
+Selected media coverage: [Daily Mail] (https://www.dailymail.co.uk/sciencetech/article-4496370/Why-stop-pause-appreciate-beauty.html), [The Smithsonian], [Quartz] (https://qz.com/987567/distraction-prevents-us-from-seeing-beauty/), [Die Zeit (German)] (https://www.zeit.de/2017/21/psychologie-immanuel-kant-schoenheit-reflex?wt_zmc=koop.ext.zonaudev.spektrumde.feed.wie-empfinden-wir-schoenheit.bildtext.link.x&utm_medium=koop&utm_source=spektrumde_zonaudev_ext&utm_campaign=feed&utm_content=wie-empfinden-wir-schoenheit_bildtext_link_x)
 
 
 ## Past Projects
