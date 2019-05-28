@@ -15,7 +15,7 @@ I also aim to make my approach interdisciplinary by collaborating with philosoph
 
 I'm enthusiastic about taking the 'hard' science of aesthetics to the public! 
 Most recently, I have been writing for the German magazine *Gehirn und Geist* and interviewed with the [SASS podcast] (https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
-I try to keep tweeting as [@aabrielma] (https://twitter.com/aabrielma). You'll find some of my interviews about specific articles below.
+I try to keep tweeting as [aabrielma] (https://twitter.com/aabrielma). You'll find some of my interviews about specific articles below.
 
 
 # Publications
