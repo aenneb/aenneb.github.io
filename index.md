@@ -1,3 +1,4 @@
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 # The Journey
 
 I was born in Germany, raised in Brussels, went back to Germany to study psychology at the University of Konstanz and currently live in the international chaos of New York city. 
@@ -54,5 +55,3 @@ Stolarova, M., Wolf, C., Rinker, T., Brielmann, A.A. (2014). How to assess and c
 Stolarova, M., & Brielmann, A. A. (2014). Does anyone need help? Age and gender effects on children’s ability to recognize need-of-help. Frontiers in psychology – Developmental Psychology, 5. 
 
 Brielmann, A. A., & Stolarova, M. (2014). A New Standardized Stimulus Set for Studying Need-of-Help Recognition (NeoHelp). PloS one, 9(1), e84373.
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
