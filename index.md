@@ -34,11 +34,13 @@ I try to keep tweeting as [aabrielma](https://twitter.com/aabrielma). You'll fin
 You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
 
 ## Current Projects
-[Aesthetics](https://www.sciencedirect.com/science/article/pii/S0960982218307668). Brielmann, A.A., & Pelli, D.G. (2018). Current Biology.
+**REVIEW** [Aesthetics](https://www.sciencedirect.com/science/article/pii/S0960982218307668). **Brielmann, A.A.**, & Pelli, D.G. (2018). Current Biology.
 
-[Beauty at a glance: The feeling of beauty and the amplitude of pleasure are independent of stimulus duration](https://jov.arvojournals.org/article.aspx?articleid=2665844). Brielmann, A. A., Vale, L.N., & Pelli, D.G. (2017). Journal of Vision.
+[Dynamics of aesthetic experience are reflected in the default-mode network](https://www.sciencedirect.com/science/article/pii/S105381191832161X). Belfi, A.M., Vessel, E.A., **Brielmann, A.A.**, Isik, A. I., Chatterjee, A., Leder, H., Pelli, D.G. & Starr, G.G. (2019). NeuroImage.
 
-[Beauty requires thought](https://www.sciencedirect.com/science/article/pii/S096098221730427X?via%3Dihub). Brielmann, A. A., & Pelli, D.G. (2017). Current Biology. 
+[Beauty at a glance: The feeling of beauty and the amplitude of pleasure are independent of stimulus duration](https://jov.arvojournals.org/article.aspx?articleid=2665844). **Brielmann, A. A.**, Vale, L.N., & Pelli, D.G. (2017). Journal of Vision.
+
+[Beauty requires thought](https://www.sciencedirect.com/science/article/pii/S096098221730427X?via%3Dihub). **Brielmann, A. A.**, & Pelli, D.G. (2017). Current Biology. 
 *Selected media coverage*: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-4496370/Why-stop-pause-appreciate-beauty.html), [The Smithsonian](https://www.smithsonianmag.com/science-nature/distraction-makes-us-less-able-appreciate-beauty-180963315/), [Quartz](https://qz.com/987567/distraction-prevents-us-from-seeing-beauty/), [Die Zeit (German)](https://www.zeit.de/2017/21/psychologie-immanuel-kant-schoenheit-reflex?wt_zmc=koop.ext.zonaudev.spektrumde.feed.wie-empfinden-wir-schoenheit.bildtext.link.x&utm_medium=koop&utm_source=spektrumde_zonaudev_ext&utm_campaign=feed&utm_content=wie-empfinden-wir-schoenheit_bildtext_link_x)
 
 
