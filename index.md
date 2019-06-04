@@ -34,7 +34,7 @@ I try to keep tweeting as [aabrielma](https://twitter.com/aabrielma). You'll fin
 You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
 
 ## Current Projects
-**REVIEW** [Aesthetics](https://www.sciencedirect.com/science/article/pii/S0960982218307668). **Brielmann, A.A.**, & Pelli, D.G. (2018). Current Biology.
+[Aesthetics](https://www.sciencedirect.com/science/article/pii/S0960982218307668). **Brielmann, A.A.**, & Pelli, D.G. (2018). Current Biology. *Review*
 
 [Dynamics of aesthetic experience are reflected in the default-mode network](https://www.sciencedirect.com/science/article/pii/S105381191832161X). Belfi, A.M., Vessel, E.A., **Brielmann, A.A.**, Isik, A. I., Chatterjee, A., Leder, H., Pelli, D.G. & Starr, G.G. (2019). NeuroImage.
 
