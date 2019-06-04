@@ -1,4 +1,4 @@
-<script><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 # The Journey
 
 I was born in Germany, raised in Brussels, went back to Germany to study psychology at the University of Konstanz and currently live in the international chaos of New York city. 
