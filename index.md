@@ -1,8 +1,8 @@
 # The Journey
 
-I was born in Germany, raised in Brussels, went back to Germany to study psychology at the University of Konstanz and currently live in the international chaos of New York city. 
+I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and currently live in the international chaos of New York City. 
 
-My joint interest in science, the beautiful and the arts have provided me with the somewhat exotic PhD topic of beauty. I am trying to understand this unique experience from a psychological, experimental and quantitative perspective. 
+My joint interest in science, the beautiful, and the arts have provided me with the somewhat exotic PhD topic of beauty. I am trying to understand this unique experience from a psychological, experimental and quantitative perspective. 
 
 When this humble professional goal does not tie me to my laptop, I let my thoughts wander on long runs through Brooklyn and Manhattan. And when my feet are tired from that, or from dancing, I try to pull out my sketchbook in memory of past desires to attend art school.
 
@@ -17,7 +17,7 @@ I'm enthusiastic about taking the 'hard' science of aesthetics to the public!
 
 Most recently, I have been writing for the German magazine *Gehirn und Geist* and interviewed with the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
 
-I try to keep tweeting as [aabrielma](https://twitter.com/aabrielma). You'll find some of my interviews about specific articles below.
+I try to keep tweeting as [aabrielma](https://twitter.com/aabrielma).
 
 
 # What's new
