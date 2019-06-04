@@ -20,6 +20,13 @@ Most recently, I have been writing for the German magazine *Gehirn und Geist* an
 I try to keep tweeting as [aabrielma](https://twitter.com/aabrielma). You'll find some of my interviews about specific articles below.
 
 
+# What's new
+
+- **Tracking 2 pleasures**: Can people keep track of more than one pleasure in parallel? A classic psychophysics experiment tests people's ability to report one of several image's pleasure as well as their combined pleasures. The project is already [on GitHub]() and was pre-registered on [OSF](). We are revising the paper to be published in Psychonomic Bulletin & Review.
+- **Intense beauty requires intense pleasure** (at least on average): If beauty is a kind of pleasure, the inability to experience pleasure will prevent beauty experiences. We collected beauty ratings for the 900 [OASIS images]() and anhedonia scores from more than 750 mTurk workers. The beauty ratings are available on [GitHub](), and the paper is currently under review at Frontiers in Psychology.
+- **How much would you pay for beauty?**: Can we translate aesthetic pleasure to monetary value? Is there a common value currency across domains? We use an auction task to assess whether people use a consistent value currency for aesthetic, food, and monetary rewards. 
+
+
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=83buWAcAAAAJ&hl=en) has conveniently listed all my publications, including theses. 
