@@ -1,10 +1,10 @@
 # The Journey
 
-I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and currently live in the international chaos of New York City. 
+I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. As of now, I still call the self-proclaimed center of the world my home.
 
-My joint interest in science, the beautiful, and the arts have provided me with the somewhat exotic PhD topic of beauty. I am trying to understand this unique experience from a psychological, experimental and quantitative perspective. 
+The main focus of my research is aesthetic value, i.e., beauty. My PhD thesis is centered around understanding the experience of beauty. I am trying to understand this unique experience from a psychological, experimental and quantitative perspective. The current challenge is to integrate our understanding of beauty with that of other values like money or food.
 
-When this humble professional goal does not tie me to my laptop, I let my thoughts wander on long runs through Brooklyn and Manhattan. And when my feet are tired from that, or from dancing, I try to pull out my sketchbook in memory of past desires to attend art school.
+I am a researcher, a woman, a bisexual, a runner and marathoner with crazy thoughts about ultra-marathons, an unapologetic fan of free weekends, glitter, and silly comics involving cats more often than not (some of which originate from the hand of yours truly). 
 
 
 # Research
@@ -22,11 +22,12 @@ I tweet as [aabrielma](https://twitter.com/aabrielma).
 
 # What's new
 
-**How much would you pay for beauty?**: Can we translate aesthetic pleasure to monetary value? Is there a common value currency across domains? We use an auction task to assess whether people use a consistent value currency for aesthetic, food, and monetary rewards. 
+**How much would you pay for beauty?** Can we translate aesthetic pleasure to monetary value? Is there a common value currency across domains? We use an auction task to assess whether people use a consistent value currency for aesthetic, food, and monetary rewards. 
 
-**What is beauty?**: Yes, we are going for the elephant question in the room! Most of the big philosophers have tried to define beauty. With the help of the philosopher [Angelica Nuzzo](https://www.gc.cuny.edu/page-elements/academics-research-centers-initiatives/doctoral-programs/philosophy/faculty-bios/angelica-nuzzo), we now compare these definitions to how people experience beauty today and to their beliefs about beauty. So far, we collected data frmom >500 people in the US, UK, and India. Looks like Kant gets a bit of confirmation again...
+**What is beauty?** Yes, we are going for the elephant question in the room! Most of the big philosophers have tried to define beauty. With the help of the philosopher [Angelica Nuzzo](https://www.gc.cuny.edu/page-elements/academics-research-centers-initiatives/doctoral-programs/philosophy/faculty-bios/angelica-nuzzo), we now compare these definitions to how people experience beauty today and to their beliefs about beauty. So far, we collected data frmom >500 people in the US, UK, and India. Looks like Kant gets a bit of confirmation again...
 
-**
+**Is beauty special?** Or is it just intense pleasure? Many people strongly sense that there is more to beauty than just pleasure - but to date, there is no compelling evidence that this is the case. We will take advantage of a classic psychophysics paradigm - adaptation - to settle this long-standing debate.
+
 
 # Publications
 
