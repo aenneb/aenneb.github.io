@@ -9,25 +9,24 @@ When this humble professional goal does not tie me to my laptop, I let my though
 
 # Research
 
-My approach to studying beauty is **quantitative** and **computational**. The main goal of my PhD is to develop a mathematical working model of the processes underlying an experience of beauty.
+My approach to studying beauty is **quantitative** and **computational**. During my PhD, I started to develop a mathematical working model of the processes underlying an experience of beauty. As a postdoc, I want to use this new perspective on beauty to finally integrate an understanding of aesthetic value into how we think about human judgment and decision making
 
-I also aim to make my approach interdisciplinary by collaborating with philosophers at the Einstein Group in Berlin.
+I also aim to make my approach interdisciplinary by collaborating with philosophers like Joerg Fingerhut and Angelica Nuzzo.
 
 I'm enthusiastic about taking the 'hard' science of aesthetics to the public! 
 
 Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
 
-I try to keep tweeting as [aabrielma](https://twitter.com/aabrielma).
+I tweet as [aabrielma](https://twitter.com/aabrielma).
 
 
 # What's new
 
-**Tracking 2 pleasures**: Can people keep track of more than one pleasure in parallel? A classic psychophysics experiment tests people's ability to report one of several image's pleasure as well as their combined pleasures. The project is already on [GitHub](https://github.com/aenneb/tracking2pleasures) and was pre-registered on [OSF](https://osf.io/74cje/). We are revising the paper to be published in Psychonomic Bulletin & Review.
-
-**Intense beauty requires intense pleasure** (at least on average): If beauty is a kind of pleasure, the inability to experience pleasure will prevent beauty experiences. We collected beauty ratings for the 900 [OASIS images](https://osf.io/6pnd7/) and anhedonia scores from more than 750 mTurk workers. The beauty ratings are available on [GitHub](https://github.com/aenneb/OASIS-beauty), and the paper is currently under review at Frontiers in Psychology.
-
 **How much would you pay for beauty?**: Can we translate aesthetic pleasure to monetary value? Is there a common value currency across domains? We use an auction task to assess whether people use a consistent value currency for aesthetic, food, and monetary rewards. 
 
+**What is beauty?**: Yes, we are going for the elephant question in the room! Most of the big philosophers have tried to define beauty. With the help of the philosopher [Angelica Nuzzo](https://www.gc.cuny.edu/page-elements/academics-research-centers-initiatives/doctoral-programs/philosophy/faculty-bios/angelica-nuzzo), we now compare these definitions to how people experience beauty today and to their beliefs about beauty. So far, we collected data frmom >500 people in the US, UK, and India. Looks like Kant gets a bit of confirmation again...
+
+**
 
 # Publications
 
@@ -36,6 +35,10 @@ I try to keep tweeting as [aabrielma](https://twitter.com/aabrielma).
 You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
 
 ## Current Projects
+[Tracking two pleasures](https://link.springer.com/article/10.3758/s13423-019-01695-6). **Brielmann, A.A.**, & Pelli, D.G. (2019). Psychonomic Bulletin & Review.
+
+[Intense beauty requires intense pleasure](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02420/full?report=reader). **Brielmann, A.A.**, & Pelli, D.G. (2019). Frontiers in Psychology.
+
 [Aesthetics](https://www.sciencedirect.com/science/article/pii/S0960982218307668). **Brielmann, A.A.**, & Pelli, D.G. (2018). Current Biology. *Review*
 
 [Dynamics of aesthetic experience are reflected in the default-mode network](https://www.sciencedirect.com/science/article/pii/S105381191832161X). Belfi, A.M., Vessel, E.A., **Brielmann, A.A.**, Isik, A. I., Chatterjee, A., Leder, H., Pelli, D.G. & Starr, G.G. (2019). NeuroImage.
