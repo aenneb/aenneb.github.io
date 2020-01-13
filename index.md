@@ -13,9 +13,7 @@ My approach to studying beauty is **quantitative** and **computational**. During
 
 I also aim to make my approach interdisciplinary by collaborating with philosophers like Joerg Fingerhut and Angelica Nuzzo.
 
-I'm enthusiastic about taking the 'hard' science of aesthetics to the public! 
-
-Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
+I'm enthusiastic about taking the 'hard' science of aesthetics to the public! Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
 
 I tweet as [aabrielma](https://twitter.com/aabrielma).
 
