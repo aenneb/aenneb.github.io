@@ -19,7 +19,7 @@ I tweet as [aabrielma](https://twitter.com/aabrielma).
 
 # Translation(s)
 
-At some point during my PhD studies, I wanted to cite a paragraph from Gustav Fechner's "Vorschule der Aesthetik". I did not want to go against the canonical translation, so I looked it up and - there was no translation! I was shocked. So many papers cited his work! Fast-forward 2 months, the first volume had finally been translated. I just had to do it myself! <a href="aenneb.github.io/files/Preshool of aesthetics by Aenne A Brielmann.pdf.pdf" target="_blank">The freely available English translation of Fechner's Preschool of Aesthetic.</a> is here for any of you to use, translate into even more languages, and improve further under a [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+At some point during my PhD studies, I wanted to cite a paragraph from Gustav Fechner's "Vorschule der Aesthetik". I did not want to go against the canonical translation, so I looked it up and - there was no translation! I was shocked. So many papers cited his work! Fast-forward 2 months, the first volume had finally been translated. I just had to do it myself! <a href="/files/Preshool of aesthetics by Aenne A Brielmann.pdf.pdf" target="_blank">The freely available English translation of Fechner's Preschool of Aesthetic.</a> is here for any of you to use, translate into even more languages, and improve further under a [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 I have no firm plans to also translate the second volume of Fechner's work - though you may convince me otherwise ;) I am very open to the idea of translating other, historically important articles from German into English. I have yet to decide on a new project.
 
