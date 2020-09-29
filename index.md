@@ -1,6 +1,6 @@
 # The Journey
 
-I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. As of now, I still call the self-proclaimed center of the world my home.
+I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549).
 
 The main focus of my research is aesthetic value, i.e., beauty. My PhD thesis is centered around understanding the experience of beauty. I am trying to understand this unique experience from a psychological, experimental and quantitative perspective. The current challenge is to integrate our understanding of beauty with that of other values like money or food.
 
@@ -9,7 +9,7 @@ I am a researcher, a woman, a bisexual, a runner and marathoner with crazy thoug
 
 # Research
 
-My approach to studying beauty is **quantitative** and **computational**. During my PhD, I started to develop a mathematical working model of the processes underlying an experience of beauty. As a postdoc, I want to use this new perspective on beauty to finally integrate an understanding of aesthetic value into how we think about human judgment and decision making
+My approach to studying beauty is **quantitative** and **computational**. During my PhD, I started to develop a mathematical working model of the processes underlying an experience of beauty. As a postdoc, I want to use this new perspective on beauty to finally integrate an understanding of aesthetic value into how we think about human judgment and decision making.
 
 I also aim to make my approach interdisciplinary by collaborating with philosophers like Joerg Fingerhut and Angelica Nuzzo.
 
