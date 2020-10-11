@@ -15,6 +15,18 @@ pictures:
   - fish-small.png
   - fish-medium.png
   thumbnail: fish-thumbnail.png
+- filename: teeth
+  original: teeth.PNG
+  sizes:
+  - teeth.PNG
+  - teeth-small.png
+  thumbnail: teeth-thumbnail.png
+- filename: throw
+  original: throw.PNG
+  sizes:
+  - throw.PNG
+  - throw-small.png
+  thumbnail: throw-thumbnail.png
 - filename: wisp
   original: wisp.PNG
   sizes:
@@ -22,3 +34,34 @@ pictures:
   - wisp-small.png
   - wisp-medium.png
   thumbnail: wisp-thumbnail.png
+- filename: blade
+  original: blade.PNG
+  sizes:
+  - blade.PNG
+  - blade-small.png
+  thumbnail: blade-thumbnail.png
+- filename: bulky
+  original: bulky.PNG
+  sizes:
+  - bulky.PNG
+  - bulky-small.png
+  thumbnail: bulky-thumbnail.png
+- filename: hope
+  original: hope.PNG
+  sizes:
+  - hope.PNG
+  - hope-small.png
+  - hope-medium.png
+  thumbnail: hope-thumbnail.png
+- filename: radio
+  original: radio.PNG
+  sizes:
+  - radio.PNG
+  - radio-small.png
+  thumbnail: radio-thumbnail.png
+- filename: rodent
+  original: rodent.PNG
+  sizes:
+  - rodent.PNG
+  - rodent-small.png
+  thumbnail: rodent-thumbnail.png

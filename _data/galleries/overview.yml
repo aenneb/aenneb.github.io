@@ -12,8 +12,8 @@
  title: Sassy Cat
  directory: sassy-cat
  preview:
-  filename: SassyCat_baking.PNG
-  original: SassyCat_baking.PNG
+  filename: SassyCat_baking.png
+  original: SassyCat_baking.png
   sizes:
   - SassyCat_baking-small.png
   thumbnail: SassyCat_baking-thumbnail.png
@@ -21,8 +21,8 @@
  title: Other Fun Stuff
  directory: other-fun-stuff
  preview:
-  filename: SassyCat_baking.PNG
-  original: SassyCat_baking.PNG
+  filename: Dresses!
+  original: Dresses!.png
   sizes:
-  - SassyCat_baking-small.png
-  thumbnail: SassyCat_baking-thumbnail.png
+  - Dresses!-small.png
+  thumbnail: Dresses!-thumbnail.png
