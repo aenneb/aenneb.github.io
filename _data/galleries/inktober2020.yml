@@ -6,7 +6,7 @@ preview:
   - fish.PNG
   - fish-small.png
   - fish-medium.png
-  thumbnail: fish-thumbnail.jpg
+  thumbnail: fish-thumbnail.png
 pictures:
 - filename: fish
   original: fish.PNG
@@ -14,11 +14,11 @@ pictures:
   - fish.PNG
   - fish-small.png
   - fish-medium.png
-  thumbnail: fish-thumbnail.jpg
+  thumbnail: fish-thumbnail.png
 - filename: wisp
   original: wisp.PNG
   sizes:
   - wisp.PNG
   - wisp-small.png
   - wisp-medium.png
-  thumbnail: wisp-thumbnail.jpg
+  thumbnail: wisp-thumbnail.png
