@@ -12,4 +12,4 @@ All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][r
 {% include gallery-layout.html gallery=site.data.galleries.inktober2020 %}
 
 [license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[repo]: https://github.com/aenneb/aenneb.io
+[repo]: https://github.com/aenneb/aenneb.github.io
