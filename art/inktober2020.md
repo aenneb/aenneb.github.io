@@ -7,9 +7,9 @@ support: [jquery, gallery]
 
 After starting my postdoc, it was hard to find the time to draw again. But Inktober gave me just the right 'excuse' to invest some proper time in re-discovering almost forgotten skills.
 
-All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][repo] for a copy of this license.
-
 {% include gallery-layout.html gallery=site.data.galleries.inktober2020 %}
+
+All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][repo] for a copy of this license.
 
 [license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [repo]: https://github.com/aenneb/aenneb.github.io
