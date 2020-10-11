@@ -1,158 +1,152 @@
 picture_path: 23heursBD
 preview:
   filename: p00
-  original: p00.png
+  original: p00.PNG
   sizes:
   - p00.png
   - p00-small.png
   thumbnail: p00-thumbnail.png
 pictures:
 - filename: p00
-  original: p00.png
+  original: p00.PNG
   sizes:
   - p00.png
   - p00-small.png
   thumbnail: p00-thumbnail.png
 - filename: p01
-  original: p01.png
+  original: p01.PNG
   sizes:
   - p01.png
   - p01-small.png
   thumbnail: p01-thumbnail.png
 - filename: p02
-  original: p02.png
-  sizes:
-  - p02.png
-  - p02-small.png
-  thumbnail: p02-thumbnail.png
-- filename: p02
-  original: p02.png
+  original: p02.PNG
   sizes:
   - p02.png
   - p02-small.png
   thumbnail: p02-thumbnail.png
 - filename: p03
-  original: p03.png
+  original: p03.PNG
   sizes:
   - p03.png
   - p03-small.png
   thumbnail: p03-thumbnail.png
 - filename: p04
-  original: p04.png
+  original: p04.PNG
   sizes:
   - p04.png
   - p04-small.png
   thumbnail: p04-thumbnail.png
 - filename: p05
-  original: p05.png
+  original: p05.PNG
   sizes:
   - p05.png
   - p05-small.png
   thumbnail: p05-thumbnail.png
 - filename: p06
-  original: p06.png
+  original: p06.PNG
   sizes:
   - p06.png
   - p06-small.png
   thumbnail: p06-thumbnail.png
 - filename: p07
-  original: p07.png
+  original: p07.PNG
   sizes:
   - p07.png
   - p07-small.png
   thumbnail: p07-thumbnail.png
 - filename: p08
-  original: p08.png
+  original: p08.PNG
   sizes:
   - p08.png
   - p08-small.png
   thumbnail: p08-thumbnail.png
 - filename: p09
-  original: p09.png
+  original: p09.PNG
   sizes:
   - p09.png
   - p09-small.png
   thumbnail: p09-thumbnail.png
 - filename: p10
-  original: p10.png
+  original: p10.PNG
   sizes:
   - p10.png
   - p10-small.png
   thumbnail: p10-thumbnail.png
 - filename: p11
-  original: p11.png
+  original: p11.PNG
   sizes:
   - p11.png
   - p11-small.png
   thumbnail: p11-thumbnail.png
 - filename: p12
-  original: p12.png
+  original: p12.PNG
   sizes:
   - p12.png
   - p12-small.png
   thumbnail: p12-thumbnail.png
 - filename: p13
-  original: p13.png
+  original: p13.PNG
   sizes:
   - p13.png
   - p13-small.png
   thumbnail: p13-thumbnail.png
 - filename: p14
-  original: p14.png
+  original: p14.PNG
   sizes:
   - p14.png
   - p14-small.png
   thumbnail: p14-thumbnail.png
 - filename: p15
-  original: p15.png
+  original: p15.PNG
   sizes:
   - p15.png
   - p15-small.png
   thumbnail: p15-thumbnail.png
 - filename: p16
-  original: p16.png
+  original: p16.PNG
   sizes:
   - p16.png
   - p16-small.png
   thumbnail: p16-thumbnail.png
 - filename: p17
-  original: p17.png
+  original: p17.PNG
   sizes:
   - p17.png
   - p17-small.png
   thumbnail: p17-thumbnail.png
 - filename: p18
-  original: p18.png
+  original: p18.PNG
   sizes:
   - p18.png
   - p18-small.png
   thumbnail: p18-thumbnail.png
 - filename: p19
-  original: p19.png
+  original: p19.PNG
   sizes:
   - p19.png
   - p19-small.png
   thumbnail: p19-thumbnail.png
 - filename: p20
-  original: p20.png
+  original: p20.PNG
   sizes:
   - p20.png
   - p20-small.png
   thumbnail: p20-thumbnail.png
 - filename: p21
-  original: p21.png
+  original: p21.PNG
   sizes:
   - p21.png
   - p21-small.png
   thumbnail: p21-thumbnail.png
 - filename: p22
-  original: p22.png
+  original: p22.PNG
   sizes:
   - p22.png
   - p22-small.png
   thumbnail: p22-thumbnail.png
 - filename: p23
-  original: p23.png
+  original: p23.PNG
   sizes:
   - p23.png
   - p23-small.png
