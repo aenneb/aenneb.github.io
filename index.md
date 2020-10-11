@@ -1,4 +1,4 @@
-# The Journey
+# About me
 
 I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549).
 
