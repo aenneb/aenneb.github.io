@@ -10,9 +10,6 @@ github_username:  aenneb
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-lightgallery
-  - jekyll-isotope
   
 defaults:
   -
