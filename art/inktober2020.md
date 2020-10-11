@@ -9,7 +9,7 @@ After starting my postdoc, it was hard to find the time to draw again. But Inkto
 
 All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][repo] for a copy of this license.
 
-{% include gallery-layout.html gallery=site.data.galleries.san-francisco %}
+{% include gallery-layout.html gallery=site.data.galleries.inktober2020 %}
 
 [license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [repo]: https://github.com/aenneb/aenneb.io
