@@ -26,3 +26,13 @@
   sizes:
   - Dresses!-small.png
   thumbnail: Dresses!-thumbnail.png
+-
+ title: Chomp's Time Travel
+ directory: 23heursBD
+ preview:
+  filename: p00
+  original: p00.png
+  sizes:
+  - p00-small.png
+  thumbnail: p00-thumbnail.png
+  
