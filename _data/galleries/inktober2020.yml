@@ -1,0 +1,24 @@
+picture_path: inktober2020
+preview:
+  filename: fish
+  original: fish.PNG
+  sizes:
+  - fish.PNG
+  - fish-small.png
+  - fish-medium.png
+  thumbnail: fish-thumbnail.jpg
+pictures:
+- filename: fish
+  original: fish.PNG
+  sizes:
+  - fish.PNG
+  - fish-small.png
+  - fish-medium.png
+  thumbnail: fish-thumbnail.jpg
+- filename: wisp
+  original: wisp.PNG
+  sizes:
+  - wisp.PNG
+  - wisp-small.png
+  - wisp-medium.png
+  thumbnail: wisp-thumbnail.jpg
