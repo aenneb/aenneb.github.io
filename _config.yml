@@ -1,5 +1,5 @@
 # Site settings
-title: Homepage of Aenne Brielmann, Ph.D.
+title: Aenne Brielmann, Ph.D.
 email: aenne.brielmann@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This website is the professional homepage of Aenne Brielmann, including some of her art.
@@ -18,4 +18,4 @@ defaults:
     values:
       permalink: /:path/:basename:output_ext
 
-exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
+exclude: [LICENSE-IMAGES, README.md, bower.json]
