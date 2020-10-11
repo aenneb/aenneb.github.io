@@ -1,0 +1,33 @@
+picture_path: sassy-cat
+preview:
+  filename: SassyCat_baking
+  original: SassyCat_baking.png
+  sizes:
+  - SassyCat_baking.PNG
+  - SassyCat_baking-small.png
+  thumbnail: SassyCat_baking-thumbnail.png
+pictures:
+- filename: SassyCat_baking
+  original: SassyCat_baking.png
+  sizes:
+  - SassyCat_baking.PNG
+  - SassyCat_baking-small.png
+  thumbnail: SassyCat_baking-thumbnail.png
+- filename: SassyCat_christmasTree
+  original: SassyCat_christmasTree.png
+  sizes:
+  - SassyCat_christmasTree.PNG
+  - SassyCat_christmasTree-small.png
+  thumbnail: SassyCat_christmasTree-thumbnail.png
+- filename: SassyCat_gingerbreadHouse
+  original: SassyCat_gingerbreadHouse.png
+  sizes:
+  - SassyCat_gingerbreadHouse.PNG
+  - SassyCat_gingerbreadHouse-small.png
+  thumbnail: SassyCat_gingerbreadHouse-thumbnail.png
+- filename: SassyCat_stoc
+  original: SassyCat_stoc.png
+  sizes:
+  - SassyCat_stoc.PNG
+  - SassyCat_stoc-small.png
+  thumbnail: SassyCat_stoc-thumbnail.png

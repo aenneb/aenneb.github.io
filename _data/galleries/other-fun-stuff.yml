@@ -1,0 +1,27 @@
+picture_path: other-fun-stuff
+preview:
+  filename: Dresses!
+  original: Dresses!.png
+  sizes:
+  - Dresses!.png
+  - Dresses!-small.png
+  thumbnail: Dresses!-thumbnail.png
+pictures:
+- filename: Dresses!
+  original: Dresses!.png
+  sizes:
+  - Dresses!.PNG
+  - Dresses!-small.png
+  thumbnail: Dresses!-thumbnail.png
+- filename: mouse!
+  original: mouse!.png
+  sizes:
+  - mouse!.PNG
+  - mouse!-small.png
+  thumbnail: mouse!-thumbnail.png
+- filename: winter
+  original: winter.png
+  sizes:
+  - winter.PNG
+  - winter-small.png
+  thumbnail: winter-thumbnail.png
