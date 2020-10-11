@@ -8,6 +8,7 @@
   - fish-small.png
   - fish-medium.png
   thumbnail: fish-thumbnail.png
+  
 -
  title: Sassy Cat
  directory: sassy-cat
@@ -17,7 +18,8 @@
   sizes:
   - SassyCat_baking-small.png
   thumbnail: SassyCat_baking-thumbnail.png
-  -
+  
+-
  title: Other Fun Stuff
  directory: other-fun-stuff
  preview:
