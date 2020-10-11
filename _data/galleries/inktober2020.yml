@@ -27,6 +27,12 @@ pictures:
   - throw.PNG
   - throw-small.png
   thumbnail: throw-thumbnail.png
+- filename: disgusting
+  original: disgusting.png
+  sizes:
+  - disgusting.png
+  - disgusting-small.png
+  thumbnail: disgusting-thumbnail.png
 - filename: wisp
   original: wisp.PNG
   sizes:
