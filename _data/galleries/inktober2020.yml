@@ -77,12 +77,6 @@ pictures:
   - fancy.png
   - fancy-small.png
   thumbnail: fancy-thumbnail.png
-- filename: disgusting
-  original: disgusting.png
-  sizes:
-  - disgusting.png
-  - disgusting-small.png
-  thumbnail: disgusting-thumbnail.png
 - filename: slippery
   original: slippery.png
   sizes:
