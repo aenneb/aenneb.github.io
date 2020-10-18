@@ -71,3 +71,39 @@ pictures:
   - rodent.PNG
   - rodent-small.png
   thumbnail: rodent-thumbnail.png
+- filename: fancy
+  original: fancy.png
+  sizes:
+  - fancy.png
+  - fancy-small.png
+  thumbnail: fancy-thumbnail.png
+- filename: disgusting
+  original: disgusting.png
+  sizes:
+  - disgusting.png
+  - disgusting-small.png
+  thumbnail: disgusting-thumbnail.png
+- filename: slippery
+  original: slippery.png
+  sizes:
+  - slippery.png
+  - slippery-small.png
+  thumbnail: slippery-thumbnail.png
+- filename: dune
+  original: dune.png
+  sizes:
+  - dune.png
+  - dune-small.png
+  thumbnail: dune-thumbnail.png
+- filename: armor
+  original: armor.png
+  sizes:
+  - armor.png
+  - armor-small.png
+  thumbnail: armor-thumbnail.png
+- filename: rocket
+  original: rocket.png
+  sizes:
+  - rocket.png
+  - rocket-small.png
+  thumbnail: rocket-thumbnail.png
