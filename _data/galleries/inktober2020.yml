@@ -33,6 +33,13 @@ pictures:
   - disgusting.png
   - disgusting-small.png
   thumbnail: disgusting-thumbnail.png
+- filename: storm
+  original: storm.png
+  sizes:
+  - storm.png
+  - storm-small.png
+  - storm-medium.png
+  thumbnail: wisp-thumbnail.png
 - filename: wisp
   original: wisp.PNG
   sizes:
