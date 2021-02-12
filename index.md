@@ -39,6 +39,8 @@ I have no firm plans to also translate the second volume of Fechner's work - tho
 You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
 
 ## Current Projects
+[The pleasure of multiple images](https://link.springer.com/article/10.3758/s13414-020-02175-z). **Brielmann, A.A.**, & Pelli, D.G. (2020). Attention, Perception, & Psychophysics.
+
 [Tracking two pleasures](https://link.springer.com/article/10.3758/s13423-019-01695-6). **Brielmann, A.A.**, & Pelli, D.G. (2019). Psychonomic Bulletin & Review.
 
 [Intense beauty requires intense pleasure](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02420/full?report=reader). **Brielmann, A.A.**, & Pelli, D.G. (2019). Frontiers in Psychology.
