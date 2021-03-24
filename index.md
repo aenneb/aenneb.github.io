@@ -27,7 +27,7 @@ I have no firm plans to also translate the second volume of Fechner's work - tho
 
 ## At MPI BC (Dayan lab)
 
-**A computational model of aesthetic value** Can we build a computational model that predicts what image people want to look at, how long, and at what cost? Well, we think so. Our model is inspired by fluency and predictive coding accounts of aesthetic appreciation. It integrates both views and builds on established reward-learning algorithms. In a nutshell, we suggest that aesthetic value is comprised of two reward components: an immediate one related to how well the current object is processed, and one that is related to the expected increase in how well future objects will be processed.
+**A computational model of aesthetic value.** Can we build a computational model that predicts what image people want to look at, how long, and at what cost? Well, we think so. Our model is inspired by fluency and predictive coding accounts of aesthetic appreciation. It integrates both views and builds on established reward-learning algorithms. In a nutshell, we suggest that aesthetic value is comprised of two reward components: an immediate one related to how well the current object is processed, and one that is related to the expected increase in how well future objects will be processed.
 
 ## At NYU (Pelli lab)
 
@@ -46,6 +46,7 @@ You can access all full texts and most conference posters via [Research Gate](ht
 
 ## Preprints
 
+[Beauty, the feeling](https://assets.researchsquare.com/files/rs-103908/v1_stamped.pdf). **Brielmann, A.A.**, Nuzzo, A., & Pelli, D.G. (2021). Research Square.
 
 
 ## Current Projects
