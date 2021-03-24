@@ -2,20 +2,19 @@
 
 I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549).
 
-Why do we like some songs and hate others? Why do we spend money to visit art galleries? Why do we spend so much time binge-watching the latest TV show? My research wants to tackle these and many other questions about the pleasure we take in and the decisions we make based on sensory experiences. To say it in fancy words: The main focus of my research is aesthetic value -- the value we assign to sensory experiences. My PhD thesis encompasses a series of studies on the experience of beauty, trying to understand this unique experience from a psychological, experimental and quantitative perspective. My current work follows up on these efforts and now takes a more encompassing view both in terms of its subject (going from beauty to aesthetic value broadly conceived) and its methodology (now also incorporating computational neuroscience, machine- and reward-learning perspectives).
-
 I am a researcher, a woman, a bisexual, a runner and marathoner with crazy thoughts about ultra-marathons, an unapologetic fan of free weekends, glitter, and silly comics involving cats more often than not (some of which originate from the hand of yours truly). 
-
-
-# Research
-
-My approach to studying beauty is **quantitative** and **computational**. During my PhD, I started to develop a (mostly descriptive) mathematical working model of the processes underlying an experience of beauty. As a postdoc, I want to use this new perspective on beauty to finally integrate an understanding of aesthetic value into how we think about human judgment and decision making.
-
-I also aim to make my approach interdisciplinary by collaborating with philosophers like Joerg Fingerhut and Angelica Nuzzo.
 
 I'm enthusiastic about taking the 'hard' science of aesthetics to the public! Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
 
 I tweet as [aabrielma](https://twitter.com/aabrielma).
+
+# Research
+
+Why do we like some songs and hate others? Why do we spend money to visit art galleries? Why do we spend so much time binge-watching the latest TV show? My research wants to tackle these and many other questions about the pleasure we take in and the decisions we make based on sensory experiences. To say it in fancy words: The main focus of my research is aesthetic value -- the value we assign to sensory experiences. My PhD thesis encompasses a series of studies on the experience of beauty, trying to understand this unique experience from a psychological, experimental and quantitative perspective. My current work follows up on these efforts and now takes a more encompassing view both in terms of its subject (going from beauty to aesthetic value broadly conceived) and its methodology (now also incorporating computational neuroscience, machine- and reward-learning perspectives).
+
+My approach to studying beauty is **quantitative** and **computational**. During my PhD, I started to develop a (mostly descriptive) mathematical working model of the processes underlying an experience of beauty. As a postdoc, I want to use this new perspective on beauty to finally integrate an understanding of aesthetic value into how we think about human judgment and decision making.
+
+I also aim to make my approach interdisciplinary by collaborating with philosophers like Joerg Fingerhut and Angelica Nuzzo.
 
 # Translation(s)
 
