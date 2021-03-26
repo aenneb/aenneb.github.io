@@ -8,77 +8,23 @@ I'm enthusiastic about taking the 'hard' science of aesthetics to the public! Mo
 
 I tweet as [aabrielma](https://twitter.com/aabrielma).
 
-# Research
+## Research
 
-Why do we like some songs and hate others? Why do we spend money to visit art galleries? Why do we spend so much time binge-watching the latest TV show? My research wants to tackle these and many other questions about the pleasure we take in and the decisions we make based on sensory experiences. To say it in fancy words: The main focus of my research is aesthetic value -- the value we assign to sensory experiences. My PhD thesis encompasses a series of studies on the experience of beauty, trying to understand this unique experience from a psychological, experimental and quantitative perspective. My current work follows up on these efforts and now takes a more encompassing view both in terms of its subject (going from beauty to aesthetic value broadly conceived) and its methodology (now also incorporating computational neuroscience, machine- and reward-learning perspectives).
+Why do we like some songs and hate others? Why do we spend money to visit art galleries? Why do we spend so much time binge-watching the latest TV show? My research wants to tackle these and many other questions about the pleasure we take in and the decisions we make based on sensory experiences. If you want to know the details, [click here](https://https://aenneb.github.io/research/).
 
-My approach to studying beauty is **quantitative** and **computational**. During my PhD, I started to develop a (mostly descriptive) mathematical working model of the processes underlying an experience of beauty. As a postdoc, I want to use this new perspective on beauty to finally integrate an understanding of aesthetic value into how we think about human judgment and decision making.
 
-I also aim to make my approach interdisciplinary by collaborating with philosophers like Joerg Fingerhut and Angelica Nuzzo.
+## Publications
 
-# Translation(s)
+[Google Scholar](https://scholar.google.com/citations?user=83buWAcAAAAJ&hl=en) conveniently lists all my publications, including theses.
+
+For a more selective list and preprints, [head over here](https://https://aenneb.github.io/publications/).
+
+You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
+
+
+## Translation(s)
 
 At some point during my PhD studies, I wanted to cite a paragraph from Gustav Fechner's "Vorschule der Aesthetik". I did not want to go against the canonical translation, so I looked it up and - there was no translation! I was shocked. So many papers cited his work! Fast-forward 2 months, the first volume had finally been translated. I just had to do it myself! <a href="files/Preshool of aesthetics by Aenne A Brielmann.pdf" target="_blank">The freely available English translation of Fechner's Preschool of Aesthetic.</a> is here for any of you to use, translate into even more languages, and improve further under a [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 I have no firm plans to also translate the second volume of Fechner's work - though you may convince me otherwise ;) I am very open to the idea of translating other, historically important articles from German into English. I have yet to decide on a new project.
 
-# What's new
-
-## At MPI BC (Dayan lab)
-
-**A computational model of aesthetic value.** Can we build a computational model that predicts what image people want to look at, how long, and at what cost? Well, we think so. Our model is inspired by fluency and predictive coding accounts of aesthetic appreciation. It integrates both views and builds on established reward-learning algorithms. In a nutshell, we suggest that aesthetic value is comprised of two reward components: an immediate one related to how well the current object is processed, and one that is related to the expected increase in how well future objects will be processed.
-
-## At NYU (Pelli lab)
-
-**How much would you pay for beauty?** Can we translate aesthetic pleasure to monetary value? Is there a common value currency across domains? We use an auction task to assess whether people use a consistent value currency for aesthetic, food, and monetary rewards. 
-
-**What is beauty?** Yes, we are going for the elephant question in the room! Most of the big philosophers have tried to define beauty. With the help of the philosopher [Angelica Nuzzo](https://www.gc.cuny.edu/page-elements/academics-research-centers-initiatives/doctoral-programs/philosophy/faculty-bios/angelica-nuzzo), we now compare these definitions to how people experience beauty today and to their beliefs about beauty. So far, we collected data frmom >500 people in the US, UK, and India. Looks like Kant gets a bit of confirmation again...
-
-**Is beauty special?** Or is it just intense pleasure? Many people strongly sense that there is more to beauty than just pleasure - but to date, there is no compelling evidence that this is the case. We will take advantage of a classic psychophysics paradigm - adaptation - to settle this long-standing debate.
-
-
-# Publications
-
-[Google Scholar](https://scholar.google.com/citations?user=83buWAcAAAAJ&hl=en) conveniently lists all my publications, including theses. 
-
-You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
-
-## Preprints
-
-[Beauty, the feeling](https://assets.researchsquare.com/files/rs-103908/v1_stamped.pdf). **Brielmann, A.A.**, Nuzzo, A., & Pelli, D.G. (2021). Research Square.
-
-
-## Current Projects
-[The pleasure of multiple images](https://link.springer.com/article/10.3758/s13414-020-02175-z). **Brielmann, A.A.**, & Pelli, D.G. (2020). Attention, Perception, & Psychophysics.
-
-[Tracking two pleasures](https://link.springer.com/article/10.3758/s13423-019-01695-6). **Brielmann, A.A.**, & Pelli, D.G. (2019). Psychonomic Bulletin & Review.
-
-[Intense beauty requires intense pleasure](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02420/full?report=reader). **Brielmann, A.A.**, & Pelli, D.G. (2019). Frontiers in Psychology.
-
-[Aesthetics](https://www.sciencedirect.com/science/article/pii/S0960982218307668). **Brielmann, A.A.**, & Pelli, D.G. (2018). Current Biology. *Review*
-
-[Dynamics of aesthetic experience are reflected in the default-mode network](https://www.sciencedirect.com/science/article/pii/S105381191832161X). Belfi, A.M., Vessel, E.A., **Brielmann, A.A.**, Isik, A. I., Chatterjee, A., Leder, H., Pelli, D.G. & Starr, G.G. (2019). NeuroImage.
-
-[Beauty at a glance: The feeling of beauty and the amplitude of pleasure are independent of stimulus duration](https://jov.arvojournals.org/article.aspx?articleid=2665844). **Brielmann, A. A.**, Vale, L.N., & Pelli, D.G. (2017). Journal of Vision.
-
-[Beauty requires thought](https://www.sciencedirect.com/science/article/pii/S096098221730427X?via%3Dihub). **Brielmann, A. A.**, & Pelli, D.G. (2017). Current Biology. 
-*Selected media coverage*: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-4496370/Why-stop-pause-appreciate-beauty.html), [The Smithsonian](https://www.smithsonianmag.com/science-nature/distraction-makes-us-less-able-appreciate-beauty-180963315/), [Quartz](https://qz.com/987567/distraction-prevents-us-from-seeing-beauty/), [Die Zeit (German)](https://www.zeit.de/2017/21/psychologie-immanuel-kant-schoenheit-reflex?wt_zmc=koop.ext.zonaudev.spektrumde.feed.wie-empfinden-wir-schoenheit.bildtext.link.x&utm_medium=koop&utm_source=spektrumde_zonaudev_ext&utm_campaign=feed&utm_content=wie-empfinden-wir-schoenheit_bildtext_link_x)
-
-
-## Past Projects
-
-Stolarova, M., Brielmann, A.A., Wolf, C., Rinker, T., Baayen, H. (2016). Early Vocabulary in Relation to Gender, Bilingualism, Type, and Duration of Childcare. Advances in Cognitive Psychology. 
-
-Brielmann, A. A., Gaetano, J., Stolarova, M. (2015). Man, You Might Look Like a Woman—If a Child Is Next to You. Advances in Cognitive Psychology. 
-
-Brielmann, A. A., Spering, M. (2015). Bribing the eye: expected reward modulates smooth pursuit eye movements. Journal of Experimental Psychology: Human Perception and Psychophysics. 
-
-Brielmann, A. A., Stolarova, M. (2015). Does it matter how you ask? Self-reported emotions to depictions of need-of-help and social context. BMC Psychology. 
-
-Brielmann, A. A., Buelthoff, I., Armann, R. (2014). Looking at faces from different angles: Europeans fixate different features in Asian and Caucasian faces. Vision Research. 
-
-Stolarova, M., Wolf, C., Rinker, T., Brielmann, A.A. (2014). How to assess and compare inter-rater reliability, agreement and correlation of ratings: an exemplary analysis of mother-father and parent-teacher expressive vocabulary rating pairs. Frontiers in Psychology – Quantitative Psychology and Measurement. 
-
-Stolarova, M., & Brielmann, A. A. (2014). Does anyone need help? Age and gender effects on children’s ability to recognize need-of-help. Frontiers in psychology – Developmental Psychology, 5. 
-
-Brielmann, A. A., & Stolarova, M. (2014). A New Standardized Stimulus Set for Studying Need-of-Help Recognition (NeoHelp). PloS one, 9(1), e84373.
