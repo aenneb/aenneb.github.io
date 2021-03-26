@@ -10,14 +10,14 @@ I tweet as [aabrielma](https://twitter.com/aabrielma).
 
 ## Research
 
-Why do we like some songs and hate others? Why do we spend money to visit art galleries? Why do we spend so much time binge-watching the latest TV show? My research wants to tackle these and many other questions about the pleasure we take in and the decisions we make based on sensory experiences. If you want to know the details, [click here](https://https://aenneb.github.io/research/).
+Why do we like some songs and hate others? Why do we spend money to visit art galleries? Why do we spend so much time binge-watching the latest TV show? My research wants to tackle these and many other questions about the pleasure we take in and the decisions we make based on sensory experiences. If you want to know the details, [click here](https://aenneb.github.io/research/).
 
 
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=83buWAcAAAAJ&hl=en) conveniently lists all my publications, including theses.
 
-For a more selective list and preprints, [head over here](https://https://aenneb.github.io/publications/).
+For a more selective list and preprints, [head over here](https://aenneb.github.io/publications/).
 
 You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
 
