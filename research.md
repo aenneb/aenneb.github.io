@@ -10,14 +10,11 @@ My approach to studying beauty is **quantitative** and **computational**. During
 
 I also aim to make my approach interdisciplinary by collaborating with philosophers like Joerg Fingerhut and Angelica Nuzzo.
 
-
-# What's new
-
-## At MPI BC (Dayan lab)
+# At MPI BC (Dayan lab)
 
 **A computational model of aesthetic value.** Can we build a computational model that predicts what image people want to look at, how long, and at what cost? Well, we think so. Our model is inspired by fluency and predictive coding accounts of aesthetic appreciation. It integrates both views and builds on established reward-learning algorithms. In a nutshell, we suggest that aesthetic value is comprised of two reward components: an immediate one related to how well the current object is processed, and one that is related to the expected increase in how well future objects will be processed.
 
-## At NYU (Pelli lab)
+# At NYU (Pelli lab)
 
 **How much would you pay for beauty?** Can we translate aesthetic pleasure to monetary value? Is there a common value currency across domains? We use an auction task to assess whether people use a consistent value currency for aesthetic, food, and monetary rewards. 
 
