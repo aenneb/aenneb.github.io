@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 Why do we like some songs and hate others? Why do we spend money to visit art galleries? Why do we spend so much time binge-watching the latest TV show? My research wants to tackle these and many other questions about the pleasure we take in and the decisions we make based on sensory experiences. To say it in fancy words: The main focus of my research is aesthetic value -- the value we assign to sensory experiences. My PhD thesis encompasses a series of studies on the experience of beauty, trying to understand this unique experience from a psychological, experimental and quantitative perspective. My current work follows up on these efforts and now takes a more encompassing view both in terms of its subject (going from beauty to aesthetic value broadly conceived) and its methodology (now also incorporating computational neuroscience, machine- and reward-learning perspectives).
 
 My approach to studying beauty is **quantitative** and **computational**. During my PhD, I started to develop a (mostly descriptive) mathematical working model of the processes underlying an experience of beauty. As a postdoc, I want to use this new perspective on beauty to finally integrate an understanding of aesthetic value into how we think about human judgment and decision making.
