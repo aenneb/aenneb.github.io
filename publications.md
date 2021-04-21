@@ -6,6 +6,7 @@ permalink: /publications/
 
 ## Preprints
 
+[Introducing a computational model of aesthetic value](https://psyarxiv.com/eaqkc/). **Brielmann, A.A.** & Dayan, P. (2021). PsyArXiv.
 [Beauty, the feeling](https://assets.researchsquare.com/files/rs-103908/v1_stamped.pdf). **Brielmann, A.A.**, Nuzzo, A., & Pelli, D.G. (2021). Research Square.
 
 
