@@ -7,10 +7,11 @@ permalink: /publications/
 ## Preprints
 
 [Introducing a computational model of aesthetic value](https://psyarxiv.com/eaqkc/). **Brielmann, A.A.** & Dayan, P. (2021). PsyArXiv.
-[Beauty, the feeling](https://assets.researchsquare.com/files/rs-103908/v1_stamped.pdf). **Brielmann, A.A.**, Nuzzo, A., & Pelli, D.G. (2021). Research Square.
 
 
 ## Current Projects
+[Beauty, the feeling](https://www.sciencedirect.com/science/article/pii/S0001691821001153). **Brielmann, A.A.**, Nuzzo, A., & Pelli, D.G. (2021). Acta Psychologica.
+
 [The pleasure of multiple images](https://link.springer.com/article/10.3758/s13414-020-02175-z). **Brielmann, A.A.**, & Pelli, D.G. (2020). Attention, Perception, & Psychophysics.
 
 [Tracking two pleasures](https://link.springer.com/article/10.3758/s13423-019-01695-6). **Brielmann, A.A.**, & Pelli, D.G. (2019). Psychonomic Bulletin & Review.
