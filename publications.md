@@ -7,6 +7,7 @@ permalink: /publications/
 ## Preprints
 
 [Introducing a computational model of aesthetic value](https://psyarxiv.com/eaqkc/). **Brielmann, A.A.** & Dayan, P. (2021). PsyArXiv.
+You can also [watch the ECVP talk](https://aenneb.github.io/files/BrielmannDayan_talk_ECVP2021_noQA.mp4) and [download the slides] (https://aenneb.github.io/files/BrielmannDayan_ECVP_2021.pdf).
 
 
 ## Current Projects
