@@ -12,7 +12,7 @@ I also aim to make my approach **interdisciplinary** by collaborating with philo
 
 # At MPI BC ([Dayan lab](https://www.kyb.tuebingen.mpg.de/computational-neuroscience))
 
-![Schematic of computational model](https://github.com/aenneb/aenneb.github.io/blob/master/files/model%20illustration%20SAB%20report.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Schematic of computational model](<img src="https://github.com/aenneb/aenneb.github.io/blob/master/files/model%20illustration%20SAB%20report.png" width="200" style="float: right;">)
 
 **A computational model of aesthetic value.** Can we build a computational model that predicts what image people want to look at, how long, and at what cost? Well, we think so. Our model is inspired by fluency and predictive coding accounts of aesthetic appreciation. It integrates both views and builds on established reward-learning algorithms. In a nutshell, we suggest that aesthetic value is comprised of two reward components: an immediate one related to how well the current object is processed, and one that is related to the expected increase in how well future objects will be processed.
 
