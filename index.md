@@ -1,5 +1,6 @@
 # About me
 
+<img src="https://aenneb.github.io/files/Aenne_2021.jpg" width="300" align="right" padding="10px"> 
 I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549).
 
 I am a researcher, a woman, a bisexual, a runner who rather runs 50k than a 5-minute km, an unapologetic fan of free weekends, glitter, and silly comics involving cats more often than not (some of which originate [from the hand of yours truly](https://aenneb.github.io/art/)). 
