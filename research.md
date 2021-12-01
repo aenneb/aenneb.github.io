@@ -14,9 +14,15 @@ I also aim to make my approach **interdisciplinary** by collaborating with philo
 
 <img src="https://github.com/aenneb/aenneb.github.io/blob/master/files/model%20illustration%20SAB%20report.png" width="300" align="left"> **A computational model of aesthetic value.** Can we build a computational model that predicts what image people want to look at, how long, and at what cost? Well, we think so. Our model is inspired by fluency and predictive coding accounts of aesthetic appreciation. It integrates both views and builds on established reward-learning algorithms. In a nutshell, we suggest that aesthetic value is comprised of two reward components: an immediate one related to how well the current object is processed, and one that is related to the expected increase in how well future objects will be processed.
 
+With my new Master student, [Surabhi Nath](https://surabhisnath.github.io/), I'm looking at how people **explore sensory information** and how people **generate patterns to maximize appeal**. This is also a collaboration with the [CPI lab](https://cpilab.org/) at the MPI BC.
+
 # At NYU ([Pelli lab](https://denispelli.com/welcome.html))
 
 I am still involved in a few projects with my old lab at NYU, working together with [Maria Pombo](https://twitter.com/mari_pombo?lang=en). We ask: **How much does memory contribute to beauty judgments?** and **When does it matter what objects you saw and rated before?**
+
+# Projects on hold
+
+I also started a few projects that for one reason or another have never been finished - sadly! Get in touch if you are interested in picking up where we left off!
 
 **How much would you pay for beauty?** Can we translate aesthetic pleasure to monetary value? Is there a common value currency across domains? We use an auction task to assess whether people use a consistent value currency for aesthetic, food, and monetary rewards. 
 
