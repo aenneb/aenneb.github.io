@@ -5,7 +5,7 @@ I was born in Germany, raised in Brussels, returned to Germany to study psycholo
 
 I am a researcher, a woman, a bisexual, a runner who rather runs 50k than a 5-minute km, an unapologetic fan of free weekends, glitter, and silly comics involving cats more often than not (some of which originate [from the hand of yours truly](https://aenneb.github.io/art/)). 
 
-I'm enthusiastic about taking the 'hard' science of aesthetics to the public! Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
+I'm enthusiastic about taking the 'hard' science of aesthetics to the public! Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with the [Sciene S*Heroes] (https://sciencesheroes.letscast.fm/episode/was-finden-wir-schoen-und-warum-das-feld-der-empirischen-aesthetik) and the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
 
 I tweet as [aabrielma](https://twitter.com/aabrielma).
 
