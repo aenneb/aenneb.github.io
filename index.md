@@ -16,7 +16,7 @@ Why do we like some songs and hate others? Why do we spend money to visit art ga
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=83buWAcAAAAJ&hl=en) conveniently lists all my publications, including theses.
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=25GQc0YAAAAJ) conveniently lists all my publications, including theses.
 
 For a more selective list and preprints, [head over here](https://aenneb.github.io/publications/).
 
