@@ -8,11 +8,12 @@ permalink: /publications/
 
 [The intrinsic variance of beauty judgmentThe intrinsic variance of beauty judgment](https://psyarxiv.com/jm83e/). Pombo, M., **Brielmann, A.A.**, & Pelli, G. (2022). PsyArXiv.
 
-[Introducing a computational model of aesthetic value](https://psyarxiv.com/eaqkc/). **Brielmann, A.A.** & Dayan, P. (2021). PsyArXiv. <br/>
-You can also <a href="https://aenneb.github.io/files/BrielmannDayan_talk_ECVP2021_noQA.mp4" target="_blank">watch the ECVP talk</a> or <a href="https://aenneb.github.io/files/BrielmannDayan_ECVP_2021.pdf" target="_blank">download the slides</a>.
-
 
 ## Current Projects
+[A Computational Model of Aesthetic Value](https://psycnet.apa.org/record/2022-78031-001). **Brielmann, A.A.** & Dayan, P. (2020). Psychological Review. <br/>
+Find the not so nicely typeset version on [PsyArXiv](https://psyarxiv.com/eaqkc/)<br/>
+You can also <a href="https://aenneb.github.io/files/BrielmannDayan_talk_ECVP2021_noQA.mp4" target="_blank">watch the ECVP talk</a> or <a href="https://aenneb.github.io/files/BrielmannDayan_ECVP_2021.pdf" target="_blank">download the slides</a>.
+
 [What Happens in Your Brain When You Walk Down the Street? Implications of Architectural Proportions, Biophilia, and Fractal Geometry for Urban Science](https://www.mdpi.com/2413-8851/6/1/3). **Brielmann, A.A.**, Buras, N.H., Salingoras, N.A., & Taylor, R.P. (2022). Urban Science. (all authors contributed equally)
 
 [Beauty, the feeling](https://www.sciencedirect.com/science/article/pii/S0001691821001153). **Brielmann, A.A.**, Nuzzo, A., & Pelli, D.G. (2021). Acta Psychologica.
