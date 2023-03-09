@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 ## Preprints
-[Relating Objective Complexity, Subjective Complexity and Beauty](https://psyarxiv.com/nuep7/). Nath, S. Braendle, F., Schulz, E. Dayan, P. & **Brielmann, A.A.** (2023). PsyArXiv.
+[Relating Objective Complexity, Subjective Complexity and Beauty](https://psyarxiv.com/nuep7/). Nath, S., Braendle, F., Schulz, E., Dayan, P., & **Brielmann, A.A.** (2023). PsyArXiv.
 
 [You ears don't change what you eyes like: People can independently report the pleasure of music and images](https://psyarxiv.com/keud2/). Frame, J., Gugliano, M., **Brielmann, A.A.**, & Belfi, A.M. (2022). PsyArXiv.
 
-[The intrinsic variance of beauty judgmentThe intrinsic variance of beauty judgment](https://psyarxiv.com/jm83e/). Pombo, M., **Brielmann, A.A.**, & Pelli, G. (2022). PsyArXiv.
+[The intrinsic variance of beauty judgment](https://psyarxiv.com/jm83e/). Pombo, M., **Brielmann, A.A.**, & Pelli, G. (2022). PsyArXiv.
 
 
 ## Current Projects
