@@ -1,13 +1,13 @@
 # About me
 
 <img src="https://aenneb.github.io/files/Aenne_2021.jpg" width="300" align="right" padding="10px"> 
-I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549).
+I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549). I am now looking to extend my time in the Swabian Alps at the [Hector Institute for Education Science](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/hector-institut-fuer-empirische-bildungsforschung/institut/).
 
-I am a researcher, a woman, a bisexual, a runner who rather runs 50k than a 5-minute km, an unapologetic fan of free weekends, glitter, and silly comics involving cats more often than not (some of which originate [from the hand of yours truly](https://aenneb.github.io/art/)). 
+I am a researcher, a woman, a pansexual, a runner who rather runs 50k than a 5-minute km, an unapologetic fan of free weekends, glitter, and silly comics involving cats more often than not (some of which originate [from the hand of yours truly](https://aenneb.github.io/art/)). 
 
-I'm enthusiastic about taking the 'hard' science of aesthetics to the public! Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with the [Sciene S*Heroes](https://sciencesheroes.letscast.fm/episode/was-finden-wir-schoen-und-warum-das-feld-der-empirischen-aesthetik) and the [SASS podcast](https://omny.fm/shows/super-awesome-science-show/blind-to-beauty). 
+I'm enthusiastic about taking the 'hard' science of aesthetics to the public! Most recently, I have been writing for the German magazine [*Gehirn und Geist*](https://www.spektrum.de/magazin/neuroaesthetik-das-geheimnis-der-schoenheit/1658104) and interviewed with [*In Mind Germany*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjx66OQ0YaAAxX6aqQEHfzJDdoQtwJ6BAgNEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdX6FgJtssXk&usg=AOvVaw3EsktMgY0n2zRo9V61ofmb&opi=89978449), the [Sciene S*Heroes Podcast](https://sciencesheroes.letscast.fm/episode/was-finden-wir-schoen-und-warum-das-feld-der-empirischen-aesthetik), and a few more. 
 
-I tweet as [aabrielma](https://twitter.com/aabrielma).
+I occaisonally tweet as [aabrielma](https://twitter.com/aabrielma) but have been rather absent from Twitter these days.
 
 ## Research
 
