@@ -7,12 +7,12 @@ permalink: /publications/
 ## Preprints
 [Relating Objective Complexity, Subjective Complexity and Beauty](https://psyarxiv.com/nuep7/). Nath, S., Braendle, F., Schulz, E., Dayan, P., & **Brielmann, A.A.** (2023). PsyArXiv.
 
-[You ears don't change what you eyes like: People can independently report the pleasure of music and images](https://psyarxiv.com/keud2/). Frame, J., Gugliano, M., **Brielmann, A.A.**, & Belfi, A.M. (2022). PsyArXiv.
-
-[The intrinsic variance of beauty judgment](https://psyarxiv.com/jm83e/). Pombo, M., **Brielmann, A.A.**, & Pelli, G. (2022). PsyArXiv.
-
 
 ## Current Projects
+[You ears don't change what you eyes like: People can independently report the pleasure of music and images](https://psycnet.apa.org/record/2023-68634-001). Frame, J., Gugliano, M., **Brielmann, A.A.**, & Belfi, A.M. (2023). JEP:HPP. [preprint](https://psyarxiv.com/keud2/)
+
+[The intrinsic variance of beauty judgment](https://link.springer.com/article/10.3758/s13414-023-02672-x). Pombo, M., **Brielmann, A.A.**, & Pelli, G. (2023). Attention, Perception, & Psychophysics. [preprint](https://psyarxiv.com/jm83e/)
+
 [A Computational Model of Aesthetic Value](https://psycnet.apa.org/record/2022-78031-001). **Brielmann, A.A.** & Dayan, P. (2022). Psychological Review. <br/>
 Find the not so nicely typeset version on [PsyArXiv](https://psyarxiv.com/eaqkc/)<br/>
 You can also <a href="https://aenneb.github.io/files/BrielmannDayan_talk_ECVP2021_noQA.mp4" target="_blank">watch the ECVP talk</a> or <a href="https://aenneb.github.io/files/BrielmannDayan_ECVP_2021.pdf" target="_blank">download the slides</a>.
