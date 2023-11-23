@@ -42,6 +42,8 @@ You can also <a href="https://aenneb.github.io/files/BrielmannDayan_talk_ECVP202
 ## Book chapters
 Apologies for the lack of accessibility! Feel free to email me about the manuscript versions.
 
+Aesthetic Boredom. **Brielmann, A.A.** (in press). In Routledge International Handbook of Boredom. Routledge.
+
 [Top-down processes in art experience](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003008675-27/top-processes-art-experience-aenne-brielmann). **Brielmann, A.A.** (2022). In The Routledge International Handbook of Neuroaesthetics (pp. 461-474). Routledge.
 
 ## Past Projects
