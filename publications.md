@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Preprints
-[Modeling individual aesthetic judgments over time]([https://psyarxiv.com/nuep7/](https://osf.io/preprints/psyarxiv/b8rg5/). **Brielmann, A.A.**, Berentelg, M., & Dayan, P. (2023). PsyArXiv.
+[Modeling individual aesthetic judgments over time](https://osf.io/preprints/psyarxiv/b8rg5/). **Brielmann, A.A.**, Berentelg, M., & Dayan, P. (2023). PsyArXiv.
 
 [Relating Objective Complexity, Subjective Complexity and Beauty](https://psyarxiv.com/nuep7/). Nath, S., Braendle, F., Schulz, E., Dayan, P., & **Brielmann, A.A.** (2023). PsyArXiv.
 
