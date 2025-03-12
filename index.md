@@ -2,7 +2,7 @@
 
 <img src="https://aenneb.github.io/files/Aenne_2021.jpg" width="300" align="right" padding="10px">
 
-I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549). I am now looking to extend my time in the Swabian Alps at the [Hector Institute for Education Science](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/hector-institut-fuer-empirische-bildungsforschung/institut/).
+I was born in Germany, raised in Brussels, returned to Germany to study psychology at the University of Konstanz and completed my PhD at NYU in New York City. I've left half my heart in Brooklyn, but in summer 2020, I returned to my home region in Southern Germany to work as a postdoc at the [Max-Planck Institute for Biological Cybernetics in Tuebingen](https://www.kyb.tuebingen.mpg.de/person/58620/2549) and the [Hector Institute for Education Science](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/hector-institut-fuer-empirische-bildungsforschung/institut/). As of 2025, I am thrilled to have joined [Liverpool Hope](https://www.hope.ac.uk/) as a Lecturer in Psychology.
 
 I am a researcher, a woman, a pansexual, a runner who rather runs 50k than a 5-minute km, an unapologetic fan of free weekends, glitter, and silly comics involving cats more often than not (some of which originate [from the hand of yours truly](https://aenneb.github.io/art/)). 
 
@@ -21,7 +21,7 @@ Why do we like some songs and hate others? Why do we spend money to visit art ga
 
 For a more selective list and preprints, [head over here](https://aenneb.github.io/publications/).
 
-You can access all full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann).
+You can access most full texts and most conference posters via [Research Gate](https://www.researchgate.net/profile/Aenne_Brielmann). Please do let me know if anything is missing, there, and I will add it.
 
 
 ## Translation(s)
