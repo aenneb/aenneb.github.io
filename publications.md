@@ -5,12 +5,18 @@ permalink: /publications/
 ---
 
 ## Preprints
-[Modeling individual aesthetic judgments over time](https://osf.io/preprints/psyarxiv/b8rg5/). **Brielmann, A.A.**, Berentelg, M., & Dayan, P. (2023). PsyArXiv.
 
-[Relating Objective Complexity, Subjective Complexity and Beauty](https://psyarxiv.com/nuep7/). Nath, S., Braendle, F., Schulz, E., Dayan, P., & **Brielmann, A.A.** (2023). PsyArXiv.
+[Regulation of eye movements and pupil size in natural scenes](https://www.biorxiv.org/content/10.1101/2025.01.06.631507v1.abstract). Hahn, A., **Brielmann, A.A.**,  Tabandeh, N., & Spitschan, M. (2025). bioRxiv.
+
+[Why do we engage less with art over time? Empirical investigations on the role of habituation and stimulus novelty in mitigating the decreased engagement from repeated art viewing](https://osf.io/preprints/osf/s258f_v1). Mikuni, J., Specker, S., **Brielmann, A.A.**, Leder, H., Rosenberg, R., & Kawabata, H. (2024). OSF.
 
 
 ## Current Projects
+
+[Relating Objective Complexity, Subjective Complexity and Beauty](https://psycnet.apa.org/record/2024-89495-001). Nath, S., Braendle, F., Schulz, E., Dayan, P., & **Brielmann, A.A.** (2024). Psychology of Aesthetics, Creativity, and the Arts.
+
+[Modeling individual aesthetic judgments over time]([https://osf.io/preprints/psyarxiv/b8rg5/](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0414)). **Brielmann, A.A.**, Berentelg, M., & Dayan, P. (2024). Philosophical Transactions of the Royal Society B.
+
 [You ears don't change what you eyes like: People can independently report the pleasure of music and images](https://psycnet.apa.org/record/2023-68634-001). Frame, J., Gugliano, M., **Brielmann, A.A.**, & Belfi, A.M. (2023). JEP:HPP. [preprint](https://psyarxiv.com/keud2/)
 
 [The intrinsic variance of beauty judgment](https://link.springer.com/article/10.3758/s13414-023-02672-x). Pombo, M., **Brielmann, A.A.**, & Pelli, G. (2023). Attention, Perception, & Psychophysics. [preprint](https://psyarxiv.com/jm83e/)
@@ -42,9 +48,10 @@ You can also <a href="https://aenneb.github.io/files/BrielmannDayan_talk_ECVP202
 ## Book chapters
 Apologies for the lack of accessibility! Feel free to email me about the manuscript versions.
 
-Aesthetic Boredom. **Brielmann, A.A.** (in press). In Routledge International Handbook of Boredom. Routledge.
+[Aesthetic Boredom](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003271536-24/aesthetic-boredom-aenne-brielmann-peter-dayan). **Brielmann, A.A.** (in press). In Routledge International Handbook of Boredom. Routledge.
 
 [Top-down processes in art experience](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003008675-27/top-processes-art-experience-aenne-brielmann). **Brielmann, A.A.** (2022). In The Routledge International Handbook of Neuroaesthetics (pp. 461-474). Routledge.
+
 
 ## Past Projects
 
